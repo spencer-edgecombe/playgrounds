@@ -3,7 +3,7 @@ import SwiftUI
 class ViewModel: ObservableObject {
     
     @Published private(set) var isLightOn = false
-    private var brandService = BrandService()
+    private var brandViewModel = BrandDetailsViewModel()
     init() {
     }
     
