@@ -1,0 +1,27 @@
+{
+  "name": "Spencer's Cheese Farm",
+  "token": "b_cheese",
+  "products": [
+    {
+      "name": "Cheddar",
+      "token": "p_cheddar",
+      "price": 5.00,
+      "description": "Aged 2 years",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cheddar_cheese.jpg/1200px-Cheddar_cheese.jpg"
+    },
+    {
+      "name": "Mozzarella",
+      "token": "p_mozz",
+      "price": 4.00,
+      "description": "Fresh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mozzarella_cheese.jpg/1200px-Mozzarella_cheese.jpg"
+    },
+    {
+      "name": "Havardi",
+      "token": "p_havardi",
+      "price": 6.00,
+      "description": "Creamy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Havarti_with_dill.jpg/1200px-Havarti_with_dill.jpg"
+    }
+  ]
+}
