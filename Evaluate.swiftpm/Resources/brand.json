@@ -7,21 +7,21 @@
       "token": "p_cheddar",
       "price": 5.00,
       "description": "Aged 2 years",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cheddar_cheese.jpg/1200px-Cheddar_cheese.jpg"
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2022/09/GettyImages-470340853.jpg"
     },
     {
       "name": "Mozzarella",
       "token": "p_mozz",
       "price": 4.00,
       "description": "Fresh",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mozzarella_cheese.jpg/1200px-Mozzarella_cheese.jpg"
+      "image": "https://media.istockphoto.com/id/181146375/photo/buffalo-mozzarella.jpg?s=612x612&w=0&k=20&c=fRk7kkn2qKJkybcrbIH2FVmTPu2TISzgWQi8pV4j4bU="
     },
     {
       "name": "Havardi",
       "token": "p_havardi",
       "price": 6.00,
       "description": "Creamy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Havarti_with_dill.jpg/1200px-Havarti_with_dill.jpg"
+      "image": "https://smithscountrycheese.com/wp-content/uploads/2021/06/20210629_111314-scaled.jpg"
     }
   ]
 }
