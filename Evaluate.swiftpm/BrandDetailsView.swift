@@ -1,8 +1,18 @@
 import SwiftUI
 
 struct BrandDetailsView: View {
+    @ObservedObject var viewModel: BrandDetailsViewModel = .init()
     var body: some View {
-        EmptyView()
+        switch viewModel.viewState.mode {
+        case .loading:
+            Text("Hey")
+                .navigationTitle("Loading")
+                .navigationBarHidden(false)
+        case .content(let content):
+            Text("Hey")
+                .navigationTitle(content.brandNameText)
+                .navigationBarHidden(false)
+        }
     }
 }
 
